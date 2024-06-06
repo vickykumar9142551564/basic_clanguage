@@ -1,0 +1,3 @@
+student name is = vicky
+age is 22
+cgpa is 9.850000
