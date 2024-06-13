@@ -7,7 +7,7 @@ int main(){
         int sallery;
         int year;
     }emp;
-    emp arr[5];
+    emp arr[3];
     for(int i=0;i<3;i++){
     strcpy(arr[i].name,"Vicky");
     strcpy(arr[i].compnay_name,"Google");
