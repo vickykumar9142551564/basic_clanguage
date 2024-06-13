@@ -3,11 +3,11 @@ int main(){
     FILE *fp;
     fp = fopen("text1.txt", "w");
     char ch;
-    fprintf(fp, "%c", 'm');
-    fprintf(fp, "%c", 'a');
-    fprintf(fp, "%c", 'n');
-    fprintf(fp, "%c", 'g');
-    fprintf(fp, "%c", 'o');
+    fprintf(fp, "%c", 'v');
+    fprintf(fp, "%c", 'i');
+    fprintf(fp, "%c", 'c');
+    fprintf(fp, "%c", 'k');
+    fprintf(fp, "%c", 'y');
     fclose(fp);
 }
 
