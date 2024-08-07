@@ -1,5 +1,5 @@
 #include<stdio.h>
-int fact(int n);
+int fact(int);
 int main(){
     int n;
     printf("enter a number");
@@ -12,5 +12,6 @@ int fact(int n){
     }
     else{
         return 1;
-    }
+    } 
 }
+  
